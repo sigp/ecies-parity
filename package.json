@@ -34,7 +34,7 @@
   "devDependencies": {
     "buffer-equal": "^1.0.0",
     "chai": "*",
-    "jshint": "*",
+    "jshint": "^2.9.6",
     "karma": "*",
     "karma-browserify": "^5.3.0",
     "karma-chrome-launcher": "^2.2.0",
