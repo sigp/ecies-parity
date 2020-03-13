@@ -46,7 +46,7 @@
     "mocha": "^6.2.2"
   },
   "dependencies": {
-    "acorn": "7.1.0",
+    "acorn": "7.1.1",
     "elliptic": "6.5.1",
     "es6-promise": "^4.2.4",
     "nan": "2.14.0"
