@@ -47,7 +47,7 @@
   },
   "dependencies": {
     "acorn": "7.1.0",
-    "elliptic": "6.5.1",
+    "elliptic": "6.5.3",
     "es6-promise": "^4.2.4",
     "nan": "2.14.0"
   },
